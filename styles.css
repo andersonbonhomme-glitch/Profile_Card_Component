@@ -25,8 +25,8 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 1.125rem;
     background:   linear-gradient(to right, var(--primary-color1), var(--primary-color2)),
-                  url(/images/bg-pattern-top.svg)  repeat top left, 
-                  url(/images/bg-pattern-bottom.svg)  repeat bottom right;
+                  url(bg-pattern-top.svg)  repeat top left, 
+                  url(bg-pattern-bottom.svg)  repeat bottom right;
 }
 
 main {
